@@ -2,8 +2,9 @@
 Awesome for authentication and authorization
 
 ## Frameworks
-[1] https://casdoor.ai
+[1] https://casdoor.ai  
 [2] “CASL v7 Documentation for Authorization library,” *CASL*, [Online]. Available: https://casl.js.org/v7/en/. [Accessed: Aug. 12, 2026].
 
 ## References
-[1] S. Scott, “Why Authorization is Hard,” *Oso*, [Online]. Available: https://www.osohq.com/post/why-authorization-is-hard. [Accessed: Aug. 11, 2026].
+[1] S. Scott, “Why Authorization is Hard,” *Oso*, [Online]. Available: https://www.osohq.com/post/why-authorization-is-hard. [Accessed: Aug. 11, 2026].  
+[2] R. Pang *et al*., “Zanzibar: Google’s Consistent, Global Authorization System,” *Google Research*, 2019. [Online]. Available: https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/. [Accessed: Aug. 12, 2026].
