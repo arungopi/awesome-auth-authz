@@ -7,4 +7,5 @@ Awesome for authentication and authorization
 
 ## References
 [1] S. Scott, “Why Authorization is Hard,” *Oso*, [Online]. Available: https://www.osohq.com/post/why-authorization-is-hard. [Accessed: Aug. 11, 2026].  
-[2] R. Pang *et al*., “Zanzibar: Google’s Consistent, Global Authorization System,” *Google Research*, 2019. [Online]. Available: https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/. [Accessed: Aug. 12, 2026].
+[2] R. Pang *et al*., “Zanzibar: Google’s Consistent, Global Authorization System,” *Google Research*, 2019. [Online]. Available: https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/. [Accessed: Aug. 12, 2026].  
+[3] “Keycloak: Free Open Source SSO with Passkeys & Multi-Tenancy” YouTube, [Online]. Available: https://youtu.be/pSPZJy8qwD8. [Accessed: Aug. 12, 2026].
